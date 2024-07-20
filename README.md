@@ -6,23 +6,26 @@
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=WizEDPill&show_icons=true&theme=radical)
 
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "C#", "PHP", "Angular"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        backEnd: {
-            js: ["Node"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php"]
+const eduardo = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Python", "C#", "PHP", "Angular"],
+  askMeAbout: ["web dev", "tech", "app dev", "photography"],
+  technologies: {
+    backEnd: {
+      js: ["Node"],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-current focus: "I'm focused on studying artificial intelligence", 
-Fun fact: Sure, here's a similar variation:
-"There are three ways to write perfect code: the fourth is charm."
+    mobileApp: {
+      native: ["Android Development"],
+    },
+    devOps: ["AWS", "Docker🐳"],
+    databases: ["mongo", "MySql", "sqlite"],
+    misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php"],
+  },
+  architecture: [
+    "Serverless Architecture",
+    "Progressive web applications",
+    "Single page applications",
+  ],
+  currentFocus: "I'm focused on studying artificial intelligence",
+  funFact: "There are three ways to write flawless code: the fourth one is the charm."
 };
